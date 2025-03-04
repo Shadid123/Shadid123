@@ -7,6 +7,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=6000&lines=Hi+There!+👋;+I'm+Shadid+Mazumder!;" />
 </h1>
 
+<img align='right' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXRhaTlyNG0xbm9oamM3cjQ0cm04dms4NmYwN3c1bmsxaWZydjNzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u2pmTWUi0MXjyrMaVj/giphy.gif" width="230">
+
 
  <div align="center">
   
